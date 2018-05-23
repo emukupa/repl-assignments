@@ -1,1 +1,57 @@
 # repl-assignments
+- [ ] Route Between Nodes
+- [ ] Telephone Words
+- [ ] Queue Stack
+- [ ] Rotate Image
+- [ ] Logic Gates
+- [ ] Stack Machine
+- [ ] Rand7 to Rand5
+- [ ] Reverse Linked List
+- [ ] Linked List Cycle
+- [ ] Next Palindromic Number
+- [ ] Balanced Brackets
+- [ ] Deep Equality
+- [ ] armstrongNumbers
+- [ ] Binary Array Sort in O(n)
+- [ ] Sum and Product
+- [ ] Get all product except at index
+- [ ] Chained Functions
+- [ ] Largest Difference In Array
+- [ ] Prime Reduction
+- [ ] Largest Contiguous Sum
+- [ ] Digits Raised to Consecutive Powers
+- [ ] Breadth First Search
+- [ ] Merge Sort
+- [ ] Quick Sort
+- [ ] Insertion sort
+- [ ] Bubble Sort
+- [ ] Twin Primes
+- [ ] Merged Objects
+- [ ] rock Paper Scissors
+- [ ] Markdown Tables
+- [ ] CSS Animation
+- [ ] Check Matching Leaves
+- [ ] Equal Sides
+- [ ] Operators
+- [ ] String Compression
+- [ ] Expanded Numbers
+- [ ] commonElements
+- [ ] Sum of Digits
+- [ ] Days Between
+- [ ] Prime List
+- [ ] To Binary String
+- [ ] for Loop Timeout
+- [ ] Collatz Sequence
+- [ ] Consecutive Strings
+- [ ] Roman Numeralize
+- [ ] String to Camel Case
+- [ ] Even Occurrences
+- [ ] Money Format
+- [ ] Reverse Number
+- [ ] sortString
+- [ ] reverseCase
+- [ ] reverseString
+- [ ] longestString
+
+*extra 
+### [Interview question](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
